@@ -12,7 +12,7 @@ YEAR=${NAME:4:4}
 
 DEST=$HOME/running/$YEAR/$MONTH
 
-if [ ! -d "$DEST" ]; then
+if [ ! -d $DEST ]; then
 	mkdir -p $DEST
 fi
 
