@@ -1,0 +1,1 @@
+Script to move .fit files from my garmin, which is just a mountable ext3 drive, forerunner to the computer.
